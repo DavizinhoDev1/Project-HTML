@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto link + tabelas</title>
+</head>
+<body>
+
+    <b>Segue os links logo abaixo:</b>
+
+    <p>
+        <a href="https://www.youtube.com/watch?v=lIiZu-94PBk" target="_blank">Aprenda a fazer sua primeira tabela em HTML</a><br/>
+        <a href="Desafios de tabela na sala de aula/desafio_1/desafio_1_tabela.html">Desafios de tabela</a>
+    </p>
+
+</body>
+</html>
